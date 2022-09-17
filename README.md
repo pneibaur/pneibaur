@@ -1,9 +1,10 @@
-# Hello There!
+# Welcome to my coding space! 
 
 My name is Phillip Neibaur, but you can call me Phil! I'm a software developer 
 currently enrolled in General Assembly coding bootcamp for fullstack development! 
 
-I have current experience in HTML, CSS, JavaScript, jQuery, and Python! 
+## My tech stack
+[JS](https://img.shields.io/badge/-JavaScript-yellow)
 
 ## I plan to expand my skills 
 
@@ -19,3 +20,4 @@ has been around people, seeing their needs, and helping them in the best way the
     - React
 
 In short, I feel my life experience lends me to cater my skills on the needs of my future clients. 
+
