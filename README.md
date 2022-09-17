@@ -19,8 +19,9 @@ I have truely found my calling and have a knack for systems development, breakin
 
 ## Connect with me
 
-<a href="pneibaur+github@gmail.com"><img src="https://i.imgur.com/Qh2XlUn.png" style="max-width: 50px;"></img></a>
-<a href="https://www.linkedin.com/in/phillip-neibaur/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="pneibaur+github@gmail.com"><img src="https://i.imgur.com/Qh2XlUn.png" style="max-width: 50px;"></a>
+
+<a href="https://www.linkedin.com/in/phillip-neibaur/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ---
 
