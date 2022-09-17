@@ -1,20 +1,30 @@
 ![UtahTech](https://i.imgur.com/qkJU5nh.jpg)
 
-# Welcome to my coding space! 
+<h1> Welcome to my coding space </h1>
 
-My name is Phillip Neibaur, but you can call me Phil. I'm a software developer 
-currently enrolled in General Assembly coding bootcamp for fullstack development. I've developed two show projects so far, and have plans to learn React, Ruby on Rails, and Python. I have truely found my calling and have a knack for systems development, breaking down large tasks, and finding and displaying data. I enjoy getting to know others, seeing their needs and catering my skills to help them in the best way possible. 
+<p>My name is Phillip Neibaur, but you can call me Phil!
+
+I'm a full-stack developer
+currently enrolled in General Assembly coding bootcamp for fullstack development. I've developed two portfolio projects so far, with plans to continue building more. 
+
+I will continue my learning with 
+- React, 
+- Ruby on Rails, 
+- Python. 
+- and more! 
+
+I have truely found my calling and have a knack for systems development, breaking down large tasks, and finding and displaying data. I enjoy getting to know others, seeing their needs and catering my skills to help them in the best way possible! </p>
 
 ---
 
 ## Connect with me
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-https://www.linkedin.com/in/phillip-neibaur/
-Email: pneibaur+github@gmail.com
+
+<a href="pneibaur+github@gmail.com"><img src="https://i.imgur.com/Qh2XlUn.png" style="max-width: 50px;"></img></a>
+<a href="https://www.linkedin.com/in/phillip-neibaur/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 ---
 
-## Tech stack
+## My Tech Stack
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
