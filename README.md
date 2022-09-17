@@ -18,18 +18,6 @@ I have truely found my calling and have a knack for systems development, breakin
 
 ---
 
-<h2> Connect with me </h2>
-
-<p><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">  pneibaur+github@gmail.com
-
-<a href="https://www.linkedin.com/in/phillip-neibaur/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">  www.linkedin.com/in/phillip-neibaur/</a>
-
-<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />  pneibaur@gmail.com 
-
-<img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" />  pneibaur@gmail.com</p>
-
----
-
 <h2> My Tech Stack </h2>
 
 <div align="center">
@@ -50,10 +38,25 @@ I have truely found my calling and have a knack for systems development, breakin
 
 ---
 
+<div align="center">
 <a href="https://github.com/pneibaur/github-readme-stats"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pneibaur&count_private=true&show_icons=true&theme=solarized-light&custom_title=Snapshot%20Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pneibaur&count_private=true&show_icons=true&theme=solarized-light&custom_title=Snapshot%20Stats" />
 </a>
 
 <a href="https://github.com/pneibaur/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pneibaur&layout=compact&theme=solarized-light&custom_title=My%20Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pneibaur&layout=compact&theme=solarized-light&custom_title=My%20Languages"/>
 </a>
+</div>
+
+
+---
+
+<h2> Connect with me </h2>
+
+<p><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">  pneibaur+github@gmail.com
+
+<a href="https://www.linkedin.com/in/phillip-neibaur/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">  www.linkedin.com/in/phillip-neibaur/</a>
+
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />  pneibaur@gmail.com 
+
+<img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" />  pneibaur@gmail.com</p>
