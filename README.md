@@ -5,12 +5,16 @@
 My name is Phillip Neibaur, but you can call me Phil. I'm a software developer 
 currently enrolled in General Assembly coding bootcamp for fullstack development. I've developed two show projects so far, and have plans to learn React, Ruby on Rails, and Python. I have truely found my calling and have a knack for systems development, breaking down large tasks, and finding and displaying data. I enjoy getting to know others, seeing their needs and catering my skills to help them in the best way possible. 
 
+---
+
 ## Connect with me
-- [LinkedIn](https://www.linkedin.com/in/phillip-neibaur/)
-- Email: pneibaur+github@gmail.com
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+https://www.linkedin.com/in/phillip-neibaur/
+Email: pneibaur+github@gmail.com
 
+---
 
-## My tech stack
+## Tech stack
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
@@ -25,3 +29,9 @@ currently enrolled in General Assembly coding bootcamp for fullstack development
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+---
+
+[![Phil's GitHub stats](https://github-readme-stats.vercel.app/api?username=pneibaur&count_private=true&show_icons=true&theme=solarized-light&custom_title=Snapshot%20Stats)](https://github.com/pneibaur/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pneibaur&layout=compact&theme=solarized-light&custom_title=My%20Languages)](https://github.com/pneibaur/github-readme-stats)
