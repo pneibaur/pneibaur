@@ -20,9 +20,13 @@ I have truely found my calling and have a knack for systems development, breakin
 
 <h2> Connect with me </h2>
 
-<p><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">  pneibaur+github@gmail.com</p>
-<p><a href="https://www.linkedin.com/in/phillip-neibaur/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">  www.linkedin.com/in/phillip-neibaur/</a></p>
-<p><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />  pneibaur@gmail.com </p>
+<p><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">  pneibaur+github@gmail.com
+
+<a href="https://www.linkedin.com/in/phillip-neibaur/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">  www.linkedin.com/in/phillip-neibaur/</a>
+
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />  pneibaur@gmail.com 
+
+<img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" />  pneibaur@gmail.com</p>
 
 ---
 
