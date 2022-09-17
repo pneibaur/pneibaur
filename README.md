@@ -8,9 +8,9 @@ I'm a full-stack developer
 currently enrolled in General Assembly coding bootcamp for fullstack development. I've developed two portfolio projects so far, with plans to continue building more. 
 
 I will continue my learning with 
-- React, 
-- Ruby on Rails, 
-- Python. 
+- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+- ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - and more! 
 
 I have truely found my calling and have a knack for systems development, breaking down large tasks, and finding and displaying data. I enjoy getting to know others, seeing their needs and catering my skills to help them in the best way possible! </p>
