@@ -1,3 +1,5 @@
+![Utah Tech](https://i.imgur.com/qkJU5nh.jpg)
+
 # Welcome to my coding space! 
 
 My name is Phillip Neibaur, but you can call me Phil. I'm a software developer 
