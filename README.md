@@ -5,16 +5,22 @@
 
 ---
 
-<p> I'm a full-stack developer
-currently enrolled in General Assembly coding bootcamp for fullstack development. I've developed two portfolio projects so far, with plans to continue building more. 
+<p> I'm a people person that loves to create full-stack applications, with an eye for front-end design! I completed a 3-month software engineering immersive bootcamp at General Assembly, and designed four of my own projects during the process. </p>
 
-I will continue my learning with 
-- ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)
-- ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-- ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-- and more! 
+<p>
+But now that bootcamp is over, my learning is only just begun! See what I'm learning next: 
+<ul style="list-style-type: none;">
+  <li><img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" /></li>
+  <li><img alt="Next.js" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" /></li>
+  <li><img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" /></li>
+  <li>and more! </li>
+</ul>
 
-I have truely found my calling and have a knack for systems development, breaking down large tasks, and finding and displaying data. I enjoy getting to know others, seeing their needs and catering my skills to help them in the best way possible! </p>
+</p>
+
+<p>
+  I have truely found my calling and have a knack for systems development, breaking down large tasks, and finding and displaying data. I enjoy getting to know others, seeing their needs and catering my skills to help them in the best way possible! 
+</p>
 
 ---
 
