@@ -5,7 +5,9 @@
 
 ---
 
-<p> I'm a people person that loves to create full-stack applications, with an eye for front-end design! I completed a 3-month software engineering immersive bootcamp at General Assembly, and designed four of my own projects during the process. </p>
+<p> 
+  I'm a people person that loves to create full-stack applications, with an eye for front-end design! I completed a 3-month software engineering immersive bootcamp at General Assembly, and designed four of my own projects during the process. 
+</p>
 
 <p>
 But now that bootcamp is over, my learning is only just begun! See what I'm learning next: 
@@ -19,7 +21,7 @@ But now that bootcamp is over, my learning is only just begun! See what I'm lear
 </p>
 
 <p>
-  I have truely found my calling and have a knack for systems development, breaking down large tasks, and finding and displaying data. I enjoy getting to know others, seeing their needs and catering my skills to help them in the best way possible! 
+  I love blending the logic and creativity of a new website design. In addition, I'm also a problem-solver and a systems developer. Breaking down large tasks is a specialty of mine! I come from a background in psychology and feel that industry has helped me be sensitive to the needs of others. 
 </p>
 
 ---
