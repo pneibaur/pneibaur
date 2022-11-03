@@ -8,16 +8,19 @@
 <p> 
   I'm a people person that loves to create full-stack applications, with an eye for front-end design! I completed a 3-month software engineering immersive bootcamp at General Assembly, and designed four of my own projects during the process. 
 </p>
+<p>
+<a src="https://www.neibaur-portphilio.com/"><img src="https://i.imgur.com/leEcDcUt.png" /></a>
+Come check out my 
+<a href="https://www.neibaur-portphilio.com/" alt="Phil Neibaur Portfolio">portfolio</a>!
+</p>
 
 <p>
 But now that bootcamp is over, my learning is only just begun! See what I'm learning next: 
-<ul style="list-style-type: none;">
-  <li><img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" /></li>
-  <li><img alt="Next.js" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" /></li>
-  <li><img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" /></li>
-  <li>and more! </li>
-</ul>
-
+<div align="center">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+</div>
 </p>
 
 <p>
@@ -63,10 +66,10 @@ But now that bootcamp is over, my learning is only just begun! See what I'm lear
 
 <h2> Connect with me </h2>
 
-<p><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">  pneibaur+github@gmail.com
+<div align="center">
+<a href="https://www.linkedin.com/in/phillip-neibaur/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+<img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" />
 
-<a href="https://www.linkedin.com/in/phillip-neibaur/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">  www.linkedin.com/in/phillip-neibaur/</a>
-
-<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />  pneibaur@gmail.com 
-
-<img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" />  pneibaur@gmail.com</p>
+</div>
