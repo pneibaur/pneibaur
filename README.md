@@ -5,11 +5,14 @@
 
 ---
 
+<div align="center">
+<a src="https://www.neibaur-portphilio.com/"><img src="https://i.imgur.com/leEcDcUt.png" /></a>
+</div>
+
 <p> 
   I'm a people person that loves to create full-stack applications, with an eye for front-end design! I completed a 3-month software engineering immersive bootcamp at General Assembly, and designed four of my own projects during the process. 
 </p>
 <p>
-<a src="https://www.neibaur-portphilio.com/"><img src="https://i.imgur.com/leEcDcUt.png" /></a>
 Come check out my 
 <a href="https://www.neibaur-portphilio.com/" alt="Phil Neibaur Portfolio">portfolio</a>!
 </p>
