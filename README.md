@@ -10,7 +10,7 @@
 </div>
 
 <p> 
-  I'm a people person that loves to create full-stack applications, with an eye for front-end design! I completed a 3-month software engineering immersive bootcamp at General Assembly, and designed four of my own projects during the process. 
+  I'm a full-stack software engineer with an eye for front-end design. I completed a 3-month software engineering immersive bootcamp at General Assembly, and designed four of my own projects during the process. 
 </p>
 <p>
 Come check out my 
@@ -18,16 +18,16 @@ Come check out my
 </p>
 
 <p>
-But now that bootcamp is over, my learning is only just begun! See what I'm learning next: 
+But now that bootcamp is over, my learning is only just begun! See what I'm learning in December 2022: 
 <div align="center">
-  <img alt="Next.js" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+  <img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 </div>
 </p>
 
 <p>
-  I love blending the logic and creativity of a new website design. In addition, I'm also a problem-solver and a systems developer. Breaking down large tasks is a specialty of mine! I come from a background in psychology and feel that industry has helped me be sensitive to the needs of others. 
+  I love blending the logic and creativity of a new website design. In addition, I'm also a problem-solver and a systems developer. Breaking down large tasks is a specialty of mine! I come from a background in psychology and working with people, and feel that industry has helped me be sensitive to the needs of others. 
 </p>
 
 ---
